@@ -1,0 +1,9 @@
+# ยอมให้ copy จากเครื่องเข้าไป
+# node_modules 
+npm-debug.log
+.env
+.git
+.gitignore
+README.md
+Dockerfile
+.dockerignore
