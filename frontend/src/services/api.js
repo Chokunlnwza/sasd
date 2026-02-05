@@ -50,7 +50,7 @@ axiosClient.interceptors.request.use(
     }
 );
 
-// Response interceptor - จัดการ error
+// Response interceptor - จัดการ error..
 axiosClient.interceptors.response.use(
     (response) => response,
     (error) => {
